@@ -1,0 +1,9 @@
+{
+  "button.label": "时间戳",
+  "button.titleOn": "已开启：本对话发送时追加当前时间（不显示在气泡里）",
+  "button.titleOff": "已关闭：本对话不追加时间戳（其他对话不受影响）",
+  "hint.localOnly": "设置服务不可用，仅在本地浏览器保存",
+  "preset.time": "[HH:mm:ss]",
+  "preset.monthday": "[MM-DD HH:mm:ss]",
+  "preset.datetime": "YYYY-MM-DD HH:mm:ss"
+}

@@ -1,0 +1,9 @@
+{
+  "button.label": "Timestamp",
+  "button.titleOn": "On: this conversation gets a timestamp (not shown in the bubble)",
+  "button.titleOff": "Off: this conversation gets no timestamp (other conversations are unaffected)",
+  "hint.localOnly": "Settings service unavailable — kept in this browser only",
+  "preset.time": "[HH:mm:ss]",
+  "preset.monthday": "[MM-DD HH:mm:ss]",
+  "preset.datetime": "YYYY-MM-DD HH:mm:ss"
+}
